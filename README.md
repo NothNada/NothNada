@@ -1,4 +1,4 @@
-<h1 align="center">Olá eu sou Rubens</h1>
+<h1 align="center">Olá meu nome é Rubens</h1>
 <h3 align="center">Eu sou um programador full-stack, e atualmente estou estudando na escola técnica Camargo Aranha</h3>
 <br>
 <br>
