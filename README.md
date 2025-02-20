@@ -10,7 +10,7 @@
 <h3 align="center">Eu sou um programador full-stack, e atualmente estou estudando na escola técnica Camargo Aranha</h3>
 
 # Linguagens de Programação
-<i class="devicon-bootstrap-plain-wordmark"></i>
+<i class="devicon-bootstrap-plain-wordmark" style="font-size:100px;"></i>
           
 
  
